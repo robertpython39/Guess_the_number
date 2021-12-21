@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        Guess the number
+# Purpose:     Fun
 #
-# Author:      nicol
+# Author:      nicolescu
 #
 # Created:     21/12/2021
 # Copyright:   (c) nicol 2021
